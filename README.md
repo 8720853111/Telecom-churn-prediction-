@@ -26,7 +26,7 @@ Customer churn is a major challenge in the telecom industry. Retaining existing 
 
 * Decision Tree
 * Random Forest
-* Gradient Boosting
+* RFE
 
 ---
 
@@ -36,7 +36,7 @@ Customer churn is a major challenge in the telecom industry. Retaining existing 
 | ----------------- | -------- | -------------------- |
 | Decision Tree     | 86%      | Best performance     |
 | Random Forest     | 80%      | Improved performance |
-| Rfe               | 78%      | Baseline model       |
+| RFE              | 78%      | Baseline model       |
 
 ---
 
